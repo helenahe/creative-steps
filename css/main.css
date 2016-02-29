@@ -2,3 +2,14 @@ body {
     padding-top: 50px;
     text-align: center;
 }
+.learn-col {
+	background-color: #B5707C;
+}
+.teach-col {
+	background-color: #1897B5;
+}
+.big-center {
+	padding: 200px;
+	font-size: 40pt;
+	font-weight: bold;
+}
